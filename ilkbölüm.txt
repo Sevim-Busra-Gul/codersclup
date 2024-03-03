@@ -1,2 +1,3 @@
 selam 10.commit ile merhaba
 bu ikinci commit olsun
+değişiklil
